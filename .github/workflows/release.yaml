@@ -49,7 +49,7 @@ jobs:
         name: Get latest release
         uses: pozetroninc/github-action-get-latest-release@master
         with:
-          owner: hyprwm
+          owner: sudg6
           repo: Hyprland
           excludes: prerelease, draft
 
