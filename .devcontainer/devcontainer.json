@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
+  "postCreateCommand": ".devcontainer/post-create.sh",
+  "customizations": {
+    "codespaces": {
+      "openOnInsertCommit": false
+    }
+  }
+}
